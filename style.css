@@ -1,0 +1,13 @@
+.container{
+    margin-top: 10%;
+}
+h1{
+    color: blue;
+}
+.form-control{
+    display: inline;
+    width: 30%;
+}
+span{
+    color: rgb(88, 5, 26);
+}
